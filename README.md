@@ -23,6 +23,16 @@ We have the file called:
 
 
 
+
+It contains all the code | artifacts | JavaDocs | Java files of the project
+
+**Module11.zip**
+
+
+<img src="images/folder_icon.png" width="150" >
+
+
+
 **Tools used:**
 - Java language
 - IDE: JetBrain IntelliJ IDE
