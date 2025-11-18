@@ -13,6 +13,9 @@ Marvel Rivals is a shooting game that is becoming very popular among PC & PS5 | 
 (Currenlty as 2025 November, Marvel Rivals has 343,000 players, and when peak time went up to 650,000. 
 
 For Module 11, we will upload the JavaDoc required documentation to make easier on the software developers to create versioning or understand better the code structure.
+<img src="images/preview.png" width="1000" >
+
+
 
 We have the file called:
 
@@ -20,7 +23,7 @@ We have the file called:
 
 
 <img src="images/folder_icon.png" width="150" >
-<img src="images/preview.png" width="1000" >
+
 
 
 
