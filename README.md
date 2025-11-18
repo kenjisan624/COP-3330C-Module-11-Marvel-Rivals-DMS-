@@ -17,7 +17,10 @@ For Module 11, we will upload the JavaDoc required documentation to make easier 
 We have the file called:
 
 **Output Javadoc**
+
+
 <img src="images/folder_icon.png" width="150" >
+
 
 
 **Tools used:**
