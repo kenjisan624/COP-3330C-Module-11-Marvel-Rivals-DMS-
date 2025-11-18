@@ -20,7 +20,7 @@ We have the file called:
 
 
 <img src="images/folder_icon.png" width="150" >
-<img src="images/preview.png" width="500" >
+<img src="images/preview.png" width="1000" >
 
 
 
